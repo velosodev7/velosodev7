@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [Pedro Veloso]! 👋
 
 🎓 Estudante de **Engenharia de Software** na [Escola DNC](https://www.escoladnc.com.br/).  
 💡 Apaixonado(a) por tecnologia, desenvolvimento e soluções inovadoras.  
@@ -14,10 +14,7 @@
 
 # 📚 Projetos Destacados
 
-- [Nome do Projeto]([link](https://gorjeta-calculator-six.vercel.app/)) - Esta calculadora de gorjeta permite que você determine o valor da gorjeta com base no valor da conta e na porcentagem desejada. Ideal para restaurantes, bares, entregadores e muito mais!
+- [Calculadora de Gorjeta]([link](https://gorjeta-calculator-six.vercel.app/)) - Esta calculadora de gorjeta permite que você determine o valor da gorjeta com base no valor da conta e na porcentagem desejada. Ideal para restaurantes, bares, entregadores e muito mais!
 
-## 📊 Estatísticas do GitHub
-
-![Minhas Estatísticas]: (https://github-readme-stats.vercel.app/api?username=velosodev7&show_icons=true&theme=dracula)
 
 ⭐️ De [GitHub - Pedro Veloso](https://github.com/velosodev7)
