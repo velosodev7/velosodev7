@@ -18,6 +18,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Suas Estatísticas] (https://github-readme-stats.vercel.app/api?username=velosodev7&show_icons=true&theme=dracula)
+![Minhas Estatísticas]: (https://github-readme-stats.vercel.app/api?username=velosodev7&show_icons=true&theme=dracula)
 
 ⭐️ De [GitHub - Pedro Veloso](https://github.com/velosodev7)
